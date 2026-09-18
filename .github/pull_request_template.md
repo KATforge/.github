@@ -33,4 +33,4 @@
 - [ ] Review threads are resolved or explicitly answered
 - [ ] Delivery and rollback impact are documented
 
-[KATforge Pull Request Standard](https://katforge.atlassian.net/wiki/spaces/KFE/pages/458774/Pull+Request+Standard)
+[KATforge Pull Request Standard](https://katforge.atlassian.net/wiki/spaces/KAT/pages/458774/Pull+Request+Standard)
