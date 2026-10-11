@@ -23,11 +23,10 @@
 
 ## Related
 
-<!-- Jira ticket, dependent pull requests, migrations, and follow-up work. -->
+<!-- Design documents, dependent pull requests, migrations, and follow-up work. -->
 
 ## Completion
 
-- [ ] The Jira ticket is linked and current
 - [ ] Callers, contracts, migrations, tests, generated artifacts, and docs are complete
 - [ ] Scratch files, temporary logging, and unresolved task TODOs are removed
 - [ ] Review threads are resolved or explicitly answered
